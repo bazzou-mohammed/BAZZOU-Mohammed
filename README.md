@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aismartz.com/images/computer-version-banner.jpg)
+![MasterHead](https://www.aismartz.com/images/computer-version-banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Bazzou</h1>
 <h3 align="center">Future engineer in image processing, CV and IA</h3>
 <img align="right" alt="Codage" width="400" src="https://miro.medium.com/max/1400/0*mMZEVyygncDQELFp.jpg")
